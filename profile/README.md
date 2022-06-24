@@ -21,4 +21,4 @@
 ## Join  us
 <p>Request to be added to our Organization</p>
 
-[Join us today](https://nullchemy.com/github)
+[Join us today](https://join.nullchemy.com/)
