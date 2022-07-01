@@ -1,5 +1,5 @@
 <p>
-  <a href="https://nullchemy.com">
+  <a href="https://nullchemy.com" target="_blank">
     <img alt="nullchemy" height="35" src="https://nullchemy.com/assets/images/icons/windows11/Square44x44Logo.scale-125.png">
   </a>
  </p>
