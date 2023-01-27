@@ -1,6 +1,6 @@
 <p>
   <a href="https://nullchemy.com" target="_blank">
-    <img alt="nullchemy" height="35" src="https://nullchemy.com/assets/icons/windows11/Square44x44Logo.scale-125.png">
+    <img alt="nullchemy" height="35" src="https://denniskibet.com/assets/icons/windows11/Square44x44Logo.scale-125.png">
   </a>
  </p>
 <h3>some of the tools we use</h3>
