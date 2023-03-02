@@ -22,22 +22,36 @@
 
 ![nullchemy Banner (1)](https://github.com/nullchemy/.github/blob/main/images/nullchemy.png)
 
-# **nullchemy**
+# **contact us**
 
-<p align="left">
-<a href="mailto:admin@nullchemy.com" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://www.linkedin.com/in/dennis-kibet-7911161aa/">
+<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  <a href="(https://discord.gg/eMrjJmWV" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://discord.gg/eMrjJmWV">
+<img alt="linkedin" src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white&style=for-the-badge" />
 </a>
-<a href="http://nullchemy.com" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
+<a href="https://profile.codersrank.io/user/dennisrono/">
+<img alt="CodersRank" src="https://img.shields.io/badge/CodersRank-50B0BA?logo=CodersRank&logoColor=white&style=for-the-badge" />
 </a>
-<a href="https://www.youtube.com/channel/UCMkdukYhvLw-3ebLs9LmpQA?sub_confirmation=1" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/YouTube-%23E20036.svg?&style=for-the-badge&logo=YouTube&logoColor=white">
+<a href="https://stackoverflow.com/users/18003296/denniskibet">
+<img alt="StackOverFlow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a> 
+<a href="https://medium.com/@dennisrkibet">
+<img alt="Medium" src="https://img.shields.io/badge/Medium-00000E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<br />
+</a> 
+<a href="https://twitter.com/FinnNeron">
+<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCMkdukYhvLw-3ebLs9LmpQA?sub_confirmation=1">
+<img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<p>
+  <a href="https://nullchemy.com">
+  <img src="https://img.shields.io/badge/website-portfolio-brightgreen" alt="my porfolio" />
+  </a>
+</p>
 
 # Community Support
 
