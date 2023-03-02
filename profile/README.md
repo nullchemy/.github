@@ -3,7 +3,8 @@
     <img alt="nullchemy" height="35" src="https://denniskibet.com/icons/favicon.ico">
   </a>
  </p>
-<h3>some of the tools we use</h3>
+
+# **some of the tools we use**
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -51,8 +52,8 @@ Welcome to Design & Code where anyone interested in designing and coding can con
 
 # Community Support
 
-> Raise an issue to join the **Design and Code** GitHub Community.
-### How can I join the Design and Code GitHub community?
+> Raise an issue to join the **nullchemy** GitHub Community.
+### How can I join the nullchemy GitHub community?
 
 > 1. Go to official site and request via this form [here](https://join.nullchemy.com).
 >   
