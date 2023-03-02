@@ -79,8 +79,3 @@
 > 4. Check if it is `Private` (the default) and set it to `Public`: <br>
 >   
 > <img width="639" alt="makepublic" src="https://user-images.githubusercontent.com/65373279/133414458-d76d47b4-1c96-439c-aff9-41a16a93ef9b.png"> <br>
-  
-## Socials
-> Join our Discord community [here](https://discord.gg/eMrjJmWV)
-> Subscribe to our YouTube channel [here](https://www.youtube.com/channel/UCd4E0oe8MtnZu_48WvYeLMw?sub_confirmation=1)
-<a href="https://discord.gg/druweDMn3s">👋 Join our Discord community <strong>NullChemy</strong> </a>
