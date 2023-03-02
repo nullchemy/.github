@@ -24,28 +24,17 @@
 
 # **nullchemy**
 
-Welcome to Design & Code where anyone interested in designing and coding can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
-
 <p align="left">
-<a href="mailto:designandcode.community@gmail.com" style="text-decoration:none">
+<a href="mailto:admin@nullchemy.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-  <a href="https://discord.gg/gM3bG4rAU5" style="text-decoration:none">
+  <a href="(https://discord.gg/eMrjJmWV" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="http://designandcode.netlify.app/" style="text-decoration:none">
+<a href="http://nullchemy.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/company/designandcode" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Design-and-Code" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/designandcode.community" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://www.youtube.com/channel/UCd4E0oe8MtnZu_48WvYeLMw?sub_confirmation=1" style="text-decoration:none">
+<a href="https://www.youtube.com/channel/UCMkdukYhvLw-3ebLs9LmpQA?sub_confirmation=1" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/YouTube-%23E20036.svg?&style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 <br />
