@@ -4,7 +4,7 @@
   </a>
 </p>
 
-![nullchemy Banner (1)](https://github.com/nullchemy/.github/blob/main/images/nullchemy.png)
+![nullchemy Banner (1)](https://github.com/nullchemy/.github/blob/main/images/nullchemy-logo.png)
 
 # **some of the tools we use**
 
