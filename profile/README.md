@@ -1,8 +1,8 @@
-<p>
+<!-- <p>
   <a href="https://nullchemy.com" target="_blank">
     <img alt="nullchemy" height="35" src="https://denniskibet.com/icons/favicon.ico">
   </a>
-</p>
+</p> -->
 
 ![nullchemy Banner (1)](https://github.com/nullchemy/.github/blob/main/images/nullchemy-logo.png)
 
